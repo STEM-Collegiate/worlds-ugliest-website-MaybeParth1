@@ -1,2 +1,16 @@
+.big {font-family: "Comic Sans MS", cursive;
+  font-size: 48px; 
+  color: #ff00ff;
+  background-color: #00ffff; 
+  text-decoration: underline wavy red; 
+  letter-spacing: 10px; 
+  word-spacing: 20px; 
+  margin: 10%;}
 
-p. {background-color:aqua;}
+p {background-color:yellow;
+   margin:20%;
+   color:antiquewhite}
+
+body {font-family: Comic Sans MS;}
+
+img {margin: 25%;}
